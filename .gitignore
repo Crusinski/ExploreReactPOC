@@ -1,0 +1,4 @@
+env
+django-drf-react-quickstart/node_modules
+django-drf-react-quickstart/package-lock.json
+*.pyc
